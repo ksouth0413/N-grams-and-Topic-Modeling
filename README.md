@@ -1,2 +1,1 @@
-Title : Developing a model to identify media company from Naver News articles by applying N-grams and Topic Modeling techniques based on the BERT model
-
+[요약용자료.pdf](https://github.com/user-attachments/files/16634701/default.pdf)
